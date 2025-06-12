@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="dark_blue">#193566</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+
+	<color name="_bg___1_ek2_color">#FFFFFF</color>
+	<color name="otp_verification_color">#313131</color>
+	<color name="enter_email_and_phone_number_to_send_one_time_password_color">#B5B5B5</color>
+	<color name="email_color">#8C8B8B</color>
+	<color name="_bg__group_1_ek1_color">#000000</color>
+	<color name="rectangle_5_color">#ffffff</color>
+	<color name="phone_number_color">#FF8C4C</color>
+	<color name="rectangle_12_color">#FF8D4C</color>
+	
+
+
+	<color name="_bg___2_ek2_color">#FFFFFF</color>
+	<color name="verification_code_color">#313131</color>
+	<color name="we_have_sent_the_verification_code_to_your_email_address_color">#B5B5B5</color>
+	<color name="rectangle_1_color">#ffffff</color>
+
+	
+
+
+	<color name="_bg___4_ek2_color">#FFFFFF</color>
+	<color name="success__color">#313131</color>
+	<color name="congratulations__you_have_been_successfully_authenticated_color">#B5B5B5</color>
+	<color name="ellipse_1_color">#4CFF93</color>
+	<color name="rectangle_15_color">#D9D9D9</color>
+	
+	
+
+
+	<color name="_bg___2__homepage_ek2_color">#F8F8F8</color>
+	<color name="_bg__recent_transaction_ek1_color">#000000</color>
+	<color name="recent_transaction_ek2_color">#0B0A0A</color>
+	<color name="_bg__transaction_list_ek1_color">#FFFFFF</color>
+	<color name="rectangle_884_color">#EEFFFD</color>
+	<color name="raj_k_color">#595F67</color>
+	<color name="february_24_2022_color">#AAAFB5</color>
+	<color name="ellipse_32_color">#D5FFDC</color>
+	<color name="ellipse_32_ek1_color">#BCE2FD</color>
+	<color name="rectangle_940_color">#FBB3C4</color>
+	<color name="ellipse_33_color">#A3A3A3</color>
+	<color name="rectangle_941_ek2_color">#D5E1FF</color>
+	<color name="_bg__main_action_ek1_color">#667DF4</color>
+	<color name="ellipse_17_color">#ffffff</color>
+	<color name="hi__sandeep_color">#1B1B1B</color>
+
+
+	<color name="_bg___4__send_money_ek2_color">#F9EFE5</color>
+	<color name="_bg__black___status_bar_ek1_color">#000000</color>
+	<color name="border_color">#ffffff</color>
+	<color name="capacity_color">#0A0A0A</color>
+	<color name="send_money_color">#0B0A0A</color>
+	<color name="ellipse_2_color">#FFFFFF</color>
+	<color name="__91_9600324848_color">#595F67</color>
+	<color name="_bg__button_ek1_color">#4A92E5</color>
+	<color name="___ek3_color">#030319</color>
+	<color name="rectangle_9_color">#CFD3D7</color>
+
+	<color name="_bg___5__success_page_ek2_color">#F9EFE5</color>
+	<color name="_bg__header_ek1_color">#000000</color>
+	<color name="transfer_receipt_color">#0B0A0A</color>
+	<color name="transfer_more_money_color">#257E9A</color>
+	<color name="done_color">#FFFFFF</color>
+	<color name="rectangle_36_color">#F8F8F8</color>
+	<color name="sandeep_color">#030319</color>
+	<color name="_8050530xxx_color">#8F92A1</color>
+	<color name="your_money_has_been_successfully_sent_to_sandeep_color">#444647</color>
+
+
+	<color name="light_Background">#DFECF4</color>
+	<color name="test_Background">#AD406A74</color>
+	<color name="light_blue_Background">#54A0D3</color>
+	<color name="light_blue_Bg">#21618C</color>
+
+	<color name="light_blue">#BDE6F0</color>
+	<color name="primary">#01AED8</color>
+</resources>

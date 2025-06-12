@@ -1,0 +1,269 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:background="@drawable/no_background"
+	android:orientation="vertical">
+	<!-- 
+	/*
+
+	 *
+	 *	@desc 		
+	 *	@file 		success_page
+	 *	@author 	Praveen
+	 *	@keywords 	
+	 *
+	 */
+	-->
+
+
+		<ImageView
+			android:id="@+id/transfer_success"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:src="@drawable/transfersuccess"
+			android:layout_gravity="center"/>
+
+		<RelativeLayout
+			android:id="@+id/header"
+			android:layout_below="@+id/transfer_success"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="0dp"
+			android:gravity="center">
+
+			<TextView
+				android:id="@+id/transfer_receipt"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="7.88dp"
+				android:gravity="center"
+				android:text="@string/transfer_receipt_string"
+				android:textColor="@color/black"
+				android:textSize="18.9sp"
+				android:textStyle="bold" />
+
+
+			<TextView
+				android:id="@+id/transfer_success_ek2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/transfer_receipt"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginTop="0dp"
+				android:foregroundGravity="center"
+				android:gravity="center"
+				android:text="@string/transfer_success_ek2_string"
+				android:textColor="@color/black"
+				android:textSize="25.2sp"
+				android:textStyle="bold" />
+
+			<TextView
+				android:id="@+id/your_money_has_been_successfully_sent_to_sandeep"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/transfer_success_ek2"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginLeft="-2dp"
+				android:layout_marginTop="36.3dp"
+				android:gravity="center"
+				android:text="@string/your_money_has_been_successfully_sent_to_sandeep_string"
+				android:textColor="@color/black"
+				android:textSize="12.6sp" />
+
+
+			<TextView
+				android:id="@+id/total_transfer_ek2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/your_money_has_been_successfully_sent_to_sandeep"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginTop="0dp"
+				android:gravity="center"
+				android:text="@string/total_transfer_ek2_string"
+				android:textColor="@color/black"
+				android:textSize="12.6sp" />
+
+			<TextView
+				android:id="@+id/__0_00"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/total_transfer_ek2"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginTop="20.58dp"
+				android:gravity="center"
+				android:text="@string/__0_00_string"
+				android:textColor="@color/black"
+				android:textSize="25.2sp"
+				android:textStyle="bold" />
+
+
+			<LinearLayout
+				android:id="@+id/layout_transaction_id"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/__0_00"
+				android:orientation="horizontal"
+				android:weightSum="20">
+
+				<TextView
+					android:id="@+id/transaction_id_label"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="0dp"
+					android:layout_weight="10"
+					android:gravity="center"
+					android:text="transaction id : 445454545"
+					android:textColor="@color/black"
+					android:textSize="12.6sp"
+					android:textStyle="bold" />
+			</LinearLayout>
+
+
+			<TextView
+				android:id="@+id/recipient_ek2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/layout_transaction_id"
+				android:layout_marginTop="0dp"
+				android:text="@string/recipient_ek2_string"
+				android:textColor="@color/black"
+				android:textSize="12.6sp"
+				android:textStyle="bold" />
+
+			<RelativeLayout
+				android:id="@+id/diana_russell"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/recipient_ek2"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="24dp"
+				android:background="@drawable/cardview_custom"
+				android:elevation="25dp">
+
+
+				<RelativeLayout
+					android:id="@+id/profile"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="13dp"
+					android:layout_marginTop="5dp">
+
+
+					<ImageView
+						android:id="@+id/vector_60"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="9dp"
+						android:layout_marginTop="12dp"
+						android:contentDescription="vector_60"
+						android:src="@drawable/phone_icon" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout
+					android:id="@+id/frame_70"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginStart="63dp"
+					android:layout_marginTop="13dp">
+
+
+					<TextView
+						android:id="@+id/sandeep"
+						android:layout_width="68.260130977631dp"
+						android:layout_height="23.260130977631dp"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="0dp"
+						android:text="@string/sandeep_string"
+						android:textColor="@color/sandeep_color"
+						android:textSize="12.6sp"
+						android:textStyle="bold" />
+
+
+					<RelativeLayout
+						android:id="@+id/group_734"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="22.15dp">
+
+
+						<TextView
+							android:id="@+id/_8050530xxx"
+							android:layout_width="77.102614593506dp"
+							android:layout_height="20.102614593506dp"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:text="@string/_8050530xxx_string"
+							android:textColor="@color/black"
+							android:textSize="11.03sp" />
+
+
+						<TextView
+							android:id="@+id/_3_02_pm"
+							android:layout_width="54.102614593506dp"
+							android:layout_height="20.102614593506dp"
+							android:layout_marginLeft="96dp"
+							android:layout_marginTop="0dp"
+							android:text="@string/_3_02_pm_string"
+							android:textColor="@color/black"
+							android:textSize="11.03sp" />
+
+					</RelativeLayout>
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+		</RelativeLayout>
+
+
+		<LinearLayout
+			android:id="@+id/buttons"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+			android:gravity="center"
+			android:orientation="horizontal"
+			android:weightSum="2">
+
+			<TextView
+				android:id="@+id/done"
+				android:layout_width="wrap_content"
+				android:layout_height="55dp"
+				android:layout_below="@+id/congratulations__you_have_been_successfully_authenticated"
+				android:layout_gravity="center"
+				android:layout_marginStart="20dp"
+				android:layout_marginEnd="20dp"
+				android:layout_weight="1"
+				android:background="@drawable/blue_bg"
+				android:gravity="center"
+				android:text="Done"
+				android:textColor="@color/white"
+				android:textSize="20dp"
+				android:textStyle="bold" />
+
+
+			<TextView
+				android:id="@+id/transfer_more_money"
+				android:layout_width="wrap_content"
+				android:layout_height="55dp"
+				android:layout_below="@+id/congratulations__you_have_been_successfully_authenticated"
+				android:layout_gravity="center"
+				android:layout_marginStart="20dp"
+				android:layout_marginEnd="20dp"
+				android:layout_weight="1"
+				android:background="@drawable/blue_bg"
+				android:gravity="center"
+				android:text="Transfer more money"
+				android:textColor="@color/white"
+				android:textSize="20dp"
+				android:textStyle="bold" />
+
+		</LinearLayout>
+
+
+</LinearLayout>

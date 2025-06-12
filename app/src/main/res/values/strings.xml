@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="otp_verification_string">OTP Verification</string>
+    <string name="enter_email_and_phone_number_to_send_one_time_password_string">Enter name and phone number to send one time Password</string>
+    <string name="name_string">\t\tName</string>
+    <string name="phone_number_string">\t\tPhone Number</string>
+
+
+    <string name="verification_code_string">Verification Code</string>
+    <string name="we_have_sent_the_verification_code_to_your_phone_no_string">We have sent the verification code to your phone number</string>
+    <string name="confirm_string">Confirm</string>
+
+
+    <string name="success__string">Success!</string>
+    <string name="congratulations__you_have_been_successfully_authenticated_string">Congratulations! You have been successfully authenticated</string>
+    <string name="continue_string">Continue</string>
+
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="recent_transaction_ek2_string">Recent Transaction</string>
+    <string name="see_all_string">See All</string>
+    <string name="raj_k_string">Raj K</string>
+    <string name="february_24_2022_string">February 24,2022</string>
+    <string name="__240_00_string">240.00</string>
+    <string name="visor_cap_string">Visor Cap</string>
+    <string name="february_24_2022_ek1_string">February 24,2022</string>
+    <string name="__24_00_string">$24,00</string>
+    <string name="internet_string">Internet</string>
+    <string name="water_string">Water</string>
+    <string name="electricity_string">Electricity</string>
+    <string name="tv_cable_string">TV Cable</string>
+    <string name="vehicle_string">Vehicle</string>
+    <string name="rent_bill_string">Rent Bill</string>
+    <string name="invest_string">Invest</string>
+    <string name="more_string">More</string>
+    <string name="top_up_ek2_string">Top Up</string>
+    <string name="send_ek2_string">Send</string>
+    <string name="withdraw_string">Withdraw</string>
+    <string name="hi__sandeep_string">Hi, Sandeep</string>
+    <string name="your_available_balance_string">Your available balance</string>
+    <string name="__0_00_string">₹ 345330.45</string>
+    <string name="cashtox_string">CashTox</string>
+
+    <string name="time_ek2_string">9:41</string>
+    <string name="send_money_string">Send Money</string>
+    <string name="sandeep_string">Sandeep</string>
+    <string name="__91_9600324848_string">+91 9600324848</string>
+    <string name="send_string">Send</string>
+    <string name="_0_ek2_string">0</string>
+    <string name="___ek2_string">.</string>
+    <string name="_9_ek2_string">9</string>
+    <string name="_8_ek2_string">8</string>
+    <string name="_7_ek2_string">7</string>
+    <string name="_6_ek2_string">6</string>
+    <string name="_5_ek2_string">5</string>
+    <string name="_4_ek2_string">4</string>
+    <string name="_3_ek2_string">3</string>
+    <string name="_2_ek2_string">2</string>
+    <string name="_1_ek2_string">1</string>
+    <string name="___ek3_string"></string>
+
+
+    <string name="transfer_receipt_string">Transfer Receipt</string>
+    <string name="transfer_more_money_string">Transfer more money</string>
+    <string name="done_string">Done</string>
+    <string name="_8050530xxx_string">8050530XXX</string>
+    <string name="_3_02_pm_string">3:02 PM</string>
+    <string name="recipient_ek2_string">Recipient</string>
+    <string name="total_transfer_ek2_string">Total Transfer</string>
+    <string name="transfer_success_ek2_string">Transfer Success</string>
+    <string name="transfer_string">Transfer</string>
+    <string name="request_string">Request</string>
+    <string name="history_string">History</string>
+    <string name="payment_list">Payment List</string>
+    <string name="your_money_has_been_successfully_sent_to_sandeep_string">Your money has been successfully sent to Sandeep </string>
+</resources>
